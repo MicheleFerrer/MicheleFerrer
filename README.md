@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, my name is Michele</h1><br>
 <h3 align="center">A passionate student studying Data and Computer Science at the University of Central Florida</h3><br>
 - 🔭 I’m currently working on a architecturial portfolio website for a client.<br>
