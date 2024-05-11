@@ -1,10 +1,10 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, my name is Michele</h1>
-<h3 align="center">A passionate student studying Data and Computer Science at the University of Central Florida</h3>
-- 🔭 I’m currently working on a architecturial portfolio website for a client.
-- 🌱 I’m currently learning C, C#, Object Oriented Programming, and SQL.
-- 📫 How to reach me michele.e.ferrer@gmail.com
-- ⚡ Fun fact I race cars!
+<h1 align="center">Hi 👋, my name is Michele</h1><br>
+<h3 align="center">A passionate student studying Data and Computer Science at the University of Central Florida</h3><br>
+- 🔭 I’m currently working on a architecturial portfolio website for a client.<br>
+- 🌱 I’m currently learning C, C#, Object Oriented Programming, and SQL.<br>
+- 📫 How to reach me michele.e.ferrer@gmail.com<br>
+- ⚡ Fun fact I race cars!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-ferrer05) 
