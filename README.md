@@ -10,6 +10,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-ferrer05) 
 <a href="https://www.leetcode.com/micheleferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="micheleferrer" height="30" width="40" /></a>
 </p>
+<a href="https://codepen.io/micheleferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="micheleferrer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/micheleferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="micheleferrer" height="30" width="40" /></a>
+<a href="https://codesandbox.com/micheleferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="micheleferrer" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/micheleferrer/about?utm_source=clipboard_%22clipboard_about%22&utm_campaign=%22micheleferrer%22&utm_content=%22about%20micheleferrer%22&utm_medium=social_share" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/micheleferrer/about?utm_source=clipboard_%22clipboard_about%22&utm_campaign=%22micheleferrer%22&utm_content=%22about%20micheleferrer%22&utm_medium=social_share" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/micheleferrer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="micheleferrer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/michele_e_ferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="michele_e_ferrer" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:
