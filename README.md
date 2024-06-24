@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, my name is Michele</h1><br>
 <h3 align="center">I'm aa passionate student studying Data and Computer Science at the University of Central Florida</h3><br>
 - 🔭 I’ currently working on a architecturial portfolio website for a client.<br>
-- 🌱 I’m currently learning C/C++, Object Oriented Programming, and SQL.<br>
+- 🌱 I’m currently learning C/C++ and Object Oriented Programming/Java.<br>
 - 📫 How to reach me michele.e.ferrer@gmail.com<br>
 - ⚡ Fun fact I race cars!<br>
 
