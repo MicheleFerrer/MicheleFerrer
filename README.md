@@ -1,6 +1,6 @@
  
 # 💫 About Me:
-🔭 I’ currently studying computer science at the University of Central Florida.<br><br>🌱 I’m currently learning C/C++ and Object Oriented Programming/Java.<br><br>📫 How to reach me michele.e.ferrer@gmail.com<br><br>⚡ Fun fact I race cars!<br>
+🔭 I am currently studying computer science at the University of Central Florida.<br><br>🌱 I’m focusing on learning C/C++ and Object Oriented Programming/Java.<br><br>📫 How to reach me michele.e.ferrer@gmail.com<br><br>⚡ Fun fact I race cars!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michele-ferrer05) 
