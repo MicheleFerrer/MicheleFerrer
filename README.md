@@ -28,6 +28,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MicheleFerrer&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
-[![Readme Card](https://github.com/MicheleFerrer/Micheles-Art-Portfolio.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/MicheleFerrer/Micheles-Art-Portfolio)
+[![Readme Card](https://github.com/MicheleFerrer/Micheles-Art-Portfolio.app/api/pin/?username=MicheleFerrer&repo=github-readme-stats)]
 
 
